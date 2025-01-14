@@ -1,6 +1,6 @@
 ![Rikkaaa](https://files.catbox.moe/8npos5.jpg)
 
-<h2 align="center">Halowww, rynn here-!!</h2>
+<h1 align="center">Halowww, rynn here-!!</h1>
 
 <p align="center">Top Repositories:</p>
 
