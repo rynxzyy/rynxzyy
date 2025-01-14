@@ -2,7 +2,7 @@
 
 <h1 align="center">Halowww, rynn here-!!</h1>
 
-<p align="center">Top Repositories:</p>
+<h2 align="center">Top Repositories:</h2>
 
 [![Rynn-UI](https://github-readme-stats.vercel.app/api/pin/?username=rynxzyy&repo=Rynn-UI&theme=dark&show_owner=true)](https://github.com/rynxzyy/Rynn-UI)
 
