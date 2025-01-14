@@ -2,4 +2,4 @@
 
 ## Halowww, rynn here-!!
 
-![Activities](https://github-readme-activity-graph.cyclic.app/graph?username=rynxzyy&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynxzyy&layout=compact&theme=radical)
