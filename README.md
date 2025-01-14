@@ -2,4 +2,4 @@
 
 ## Halowww, rynn here-!!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynxzyy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rynxzyy&layout=compact&theme=github)
