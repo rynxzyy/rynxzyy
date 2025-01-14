@@ -2,6 +2,6 @@
 
 ## Halowww, rynn here-!!
 
-# Top Repositories:
-[![Rynn-UI](https://github-readme-stats.vercel.app/api/pin/?username=rynxzyy&repo=Rynn-UI&theme=radical)](https://github.com/rynxzyy/Rynn-UI)
+### Top Repositories:
+[![Rynn-UI](https://github-readme-stats.vercel.app/api/pin/?username=rynxzyy&repo=Rynn-UI&theme=github)](https://github.com/rynxzyy/Rynn-UI)
 
