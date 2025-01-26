@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/8npos5.jpg" alt="banner" align="center" width="50%"></img>
+  <img src="https://files.catbox.moe/8npos5.jpg" alt="banner" align="center" width="80%"></img>
   
   <h1>Halowww, rynn here-!!</h1>
   
