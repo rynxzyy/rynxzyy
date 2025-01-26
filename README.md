@@ -9,8 +9,6 @@
     Always curious and eager to learn something new!
   </p>
   
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rynxzyy&title=Visitor&edge_flat=false)
-  
   <br><br>
   <h2>Languages I Use</h2>
   
