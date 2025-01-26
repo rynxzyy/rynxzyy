@@ -9,7 +9,6 @@
     Always curious and eager to learn something new!
   </p>
   
-  <br>
   <h2>Languages I Use</h2>
   
   <p>
