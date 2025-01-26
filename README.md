@@ -30,20 +30,3 @@
   [![Rikkaa-TeleBott](https://github-readme-stats.vercel.app/api/pin/?username=rynxzyy&repo=Rikkaa-TeleBott&theme=dark&show_owner=true)](https://github.com/rynxzyy/Rikkaa-TeleBott)
   
 </div>
-
-<div align="center">
-  <h2>GitHub Stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=rynxzyy&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"></img>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rynxzyy&theme=dark&hide_border=false" alt="GitHub Streak" width="50%"></img>
-</div>
-
-<div align="center">
-  <h2>Connect with Me</h2>
-  <a href="https://github.com/rynxzyy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://instagram.com/ran.dyyn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
