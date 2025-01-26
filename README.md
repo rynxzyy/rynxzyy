@@ -17,14 +17,4 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </p>
-  
-  <br>
-  <h2>Top Repositories</h2>
-</div>
-
-<div align="center">
-  
-  [![Rynn-UI](https://github-readme-stats.vercel.app/api/pin/?username=rynxzyy&repo=Rynn-UI&theme=dark&show_owner=true)](https://github.com/rynxzyy/Rynn-UI)
-  [![Rikkaa-TeleBott](https://github-readme-stats.vercel.app/api/pin/?username=rynxzyy&repo=Rikkaa-TeleBott&theme=dark&show_owner=true)](https://github.com/rynxzyy/Rikkaa-TeleBott)
-  
 </div>
