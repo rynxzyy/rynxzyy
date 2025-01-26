@@ -1,4 +1,4 @@
-![Rikkaaa](https://files.catbox.moe/8npos5.jpg)
+<img src="https://files.catbox.moe/8npos5.jpg" alt="banner" align="center" width="50%"></img>
 
 <h1 align="center">Halowww, rynn here-!!</h1>
 
