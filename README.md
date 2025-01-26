@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://files.catbox.moe/8npos5.jpg" alt="banner" align="center"></img>
   
-  <h1>🌸 Halowww, rynn here-!! 🌸</h1>
+  <h1>Halowww, rynn here-!!</h1>
   
   <p>
     <em>"Turning ideas into beautiful, functional code!"</em><br>
@@ -12,7 +12,7 @@
   ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rynxzyy&title=Visitor&edge_flat=false)
   
   <br><br>
-  <h2>✨ Languages I Use ✨</h2>
+  <h2>Languages I Use</h2>
   
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -21,7 +21,7 @@
   </p>
   
   <br><br>
-  <h2>✨ Top Repositories ✨</h2>
+  <h2>Top Repositories</h2>
 </div>
 
 <div align="center">
@@ -31,19 +31,15 @@
   
 </div>
 
----
-
 <div align="center">
-  <h2>🌟 GitHub Stats 🌟</h2>
+  <h2>GitHub Stats</h2>
   
   <img src="https://github-readme-stats.vercel.app/api?username=rynxzyy&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"></img>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rynxzyy&theme=dark&hide_border=false" alt="GitHub Streak" width="50%"></img>
 </div>
 
----
-
 <div align="center">
-  <h2>🌐 Connect with Me 🌐</h2>
+  <h2>Connect with Me</h2>
   <a href="https://github.com/rynxzyy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
