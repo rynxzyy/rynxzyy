@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://files.catbox.moe/8npos5.jpg" alt="banner" align="center"></img>
-  
   <h1>Halowww, rynn here-!!</h1>
+  
+  <img src="https://files.catbox.moe/8npos5.jpg" alt="banner" align="center"></img>
   
   <p>
     <em>"Turning ideas into beautiful, functional code!"</em><br>
